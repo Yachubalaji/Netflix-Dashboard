@@ -1,4 +1,4 @@
-# Dive into the vibrant world of Netflix data with our dynamic dashboard, designed to unravel the mysteries behind viewer preferences, trending shows, and content performance metrics. Utilize this dashboard to gain a deeper understanding of user engagement and make data-driven decisions in the fast-paced entertainment industry.
+# Netflix Dashboard Analysis
 
 
 
